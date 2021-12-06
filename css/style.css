@@ -727,17 +727,17 @@ background: #F7F7F7;
 .box-project-gallery-item-1 {
     width: 384px;
     height: 330px;
-    background: url('../project-gallery/assets/33.png') no-repeat center;
+    background: url('../assets/project-gallery/33.png') no-repeat center;
 }
 .box-project-gallery-item-2 {
     width: 384px;
     height: 383px;
-    background: url('../project-gallery/assets/32.png') no-repeat center;
+    background: url('../assets/project-gallery/32.png') no-repeat center;
 }
 .box-project-gallery-item-3 {
     width: 384px;
     height: 330px;
-    background: url('../project-gallery/assets/7.png') no-repeat center;
+    background: url('../assets/project-gallery/7.png') no-repeat center;
 }
 .box-project-gallery button {
     border: none;
